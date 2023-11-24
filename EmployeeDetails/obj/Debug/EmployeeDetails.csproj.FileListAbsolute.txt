@@ -1,0 +1,10 @@
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+D:\Kuliah\Visual Studio\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
